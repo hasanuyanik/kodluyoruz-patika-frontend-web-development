@@ -1,0 +1,76 @@
+ul{
+    list-style: none;
+}
+
+.a-center{
+    text-align:center;
+}
+
+.cPointer{
+    cursor:pointer;
+}
+
+.bg-gray{
+    background-color: #eee;
+}
+
+.bg-turquoise1{
+    background-color: #7EE5DA;
+}
+.bg-turquoise2{
+    background-color: #70CCC2;
+}
+.bg-turquoise3{
+    background-color: #62B3AA;
+}
+
+.p0{
+    padding:0;
+}
+.p40{
+    padding:40px;
+}
+.p20{
+    padding:20px;
+}
+
+.m5{
+    margin: 5px;
+}
+.m0{
+    margin: 0;
+}
+
+.fsizeSmall{
+    font-size:small;
+}
+
+.fLeft{
+    float:left;
+}
+
+.width_100{
+    width:100%;
+}
+.width_45{
+    width:45%;
+}
+.width_37{
+    width:37%;
+}
+.width_18{
+    width:18%;
+}
+
+.minHeight80{
+    min-height:80px;
+}
+
+.dBlock{
+    display: block;
+    box-sizing: border-box;
+}
+
+.border1{
+    border:1px solid #fff;
+}
