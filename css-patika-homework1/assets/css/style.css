@@ -1,0 +1,58 @@
+body,a{
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+img{
+    max-width: 600px;
+    max-height: 200px;
+}
+
+.header{
+
+}
+.red{
+    color:red;
+}
+.purple{
+    color:purple;
+}
+.darkgoldenrod{
+    color:darkgoldenrod;
+}
+
+
+.fsize1{
+    font-size: 24px;
+}
+
+.fw700{
+    font-weight: 700;
+}
+
+.dInlineBlock{
+    display: inline-block;
+}
+.dBlock{
+    display: block;
+}
+.dInline{
+    display: inline;
+}
+
+
+.a-center{
+    text-align: center;
+}
+ul.a-center{
+    list-style-position: inside;
+}
+
+.p0{
+    padding: 0;
+}
+
+.m0_15{
+    margin: 0 15px;
+}
