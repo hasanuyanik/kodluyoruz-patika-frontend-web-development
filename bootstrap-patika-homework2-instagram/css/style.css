@@ -4,6 +4,9 @@
   color: gray;
   background-position: 40%;
   background-size: 6%;
+  background-image: url('../assets/search-solid.svg');
+  background-repeat: no-repeat;
+  text-indent: 15px;
 }
 
 input.empty {
@@ -20,6 +23,11 @@ input.empty {
   color: black;
 }
 
+#sticky-sidebar{
+  position: sticky;
+  top:70px;
+  z-index: 1020;
+}
 
 .storyphoto {
   width: 60px;
@@ -43,4 +51,8 @@ input.empty {
 .rightpanellinks:hover {
   text-decoration: none;
   color: lightgrey;
+}
+
+body{
+  background-color: #FAFAFA;
 }
